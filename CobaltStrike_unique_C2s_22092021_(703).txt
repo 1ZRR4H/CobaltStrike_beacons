@@ -279,8 +279,6 @@ shokotanz.com
 173.82.155.163
 144.217.207.19
 flashcf.cf
-https
-192.168.43.79
 45.148.123.33
 61.160.195.13
 45.32.81.11
@@ -492,7 +490,6 @@ adobeacrobatupdater.com
 cifgtom.com
 www.hellomrsone.com
 cujicir.com
-
 cloud-dock.net
 104.243.38.68
 sts.tencentcloudapi.tk
